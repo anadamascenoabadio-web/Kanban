@@ -1,0 +1,6 @@
+{
+  "name": "CRM Kanban Supabase",
+  "description": "Sistema CRM Kanban para gerenciamento de tarefas e negócios nas etapas Não iniciado, Em Andamento e Finalizado com integração Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
